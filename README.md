@@ -95,7 +95,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammers&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwjypILNiuv5AhUHv4sKHW6eBfQQMygIegUIARCEAg..i&docid=p_0abvc3s_D4VM&w=480&h=270&q=sample%20programing%20gif&hl=en&ved=2ahUKEwjypILNiuv5AhUHv4sKHW6eBfQQMygIegUIARCEAg" />
    </p>
    
    
