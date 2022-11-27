@@ -14,7 +14,7 @@
  </p> -->
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Fatty Crocodile | 💻 Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Fatty Crocodile | 💻 Laravel Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <!-- <p align="center">
@@ -31,7 +31,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 30 years old Self-taught Full-Stack developer.</h3>
+  <h3> I'm 30 years old Self-taught Laravel developer.</h3>
 </p>
 
 - 🥀 Learning serviceNow
