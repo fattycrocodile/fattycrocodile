@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm a senior<a href="https://github.com/fattycrocodile">Full Stack developer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm a senior <a href="https://github.com/fattycrocodile">full stack developer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
