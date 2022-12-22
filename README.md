@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/fattycrocodile">Fatty Crocodile</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm a senior<a href="https://github.com/fattycrocodile">Full Stack developer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
@@ -25,28 +25,28 @@
  </p> -->
 
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️I don’t trust people who develop project alone⚡️</i>
   </h5>
  
  
 <br />
 <!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
 <p align="center">
-  <h3> I'm 30 years old Self-taught Laravel developer.</h3>
+  <h3> I'm 30 years old self-taught full stack developer.</h3>
 </p>
 
 - 🥀 Learning serviceNow
 
-- <i>with Laravel, Typescript, React and 69 others.</i>
+- <i>with Laravel, Typescript, React, Node.js, Django and 69 others.</i>
 
-- 🛸 Into High Energy Physics and Geographics, i love shooting stars too.
+- 🛸 Into High Energy Physics and Geographics, I love shooting stars too.
 
 - I do fullstack and a bit of everything :heart:
 
 - All About living life at its best.
 
  <p align="center">
-  <h4> Laravel | Typescript | Competitive Programming </h4>
+  <h4> Laravel | React | Vue | Typescript | Django </h4>
    </p>
 
 <!--  -->
@@ -64,10 +64,10 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="vue" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
@@ -110,6 +110,6 @@
 
 <h1 align='center'>⚡️<i>Never Cowardice!</i>⚡️</h1>
 
-<p align="center">
+<!-- <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
