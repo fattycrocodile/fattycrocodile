@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm a senior <a href="https://github.com/fattycrocodile">full stack developer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm a Experienced Full Stack Developer<a href="https://github.com/fattycrocodile"> - React | Node | Laravel </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">  -->
@@ -24,18 +24,16 @@
    <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
  </p> -->
 
- <h5 align="center">
+ <!-- <h5 align="center">
    <i>⚡️I don’t trust people who develop project alone⚡️</i>
-  </h5>
- 
- 
-<br />
-<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
-<p align="center">
-  <h3> I'm 30 years old self-taught full stack developer.</h3>
-</p>
+  </h5> -->
 
-- 🥀 Learning serviceNow
+<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
+<!-- <p align="center">
+  <h3> I'm 30 years old self-taught full stack developer.</h3>
+</p> -->
+
+<!-- - 🥀 Learning serviceNow -->
 
 - <i>with Laravel, Typescript, React, Node.js, Django and 20 others.</i>
 
@@ -45,9 +43,9 @@
 
 - All about living life at its best.
 
- <p align="center">
+ <!-- <p align="center">
   <h4> Laravel | React | Vue | Typescript | Django </h4>
-   </p>
+   </p> -->
 
 <!--  -->
 
@@ -105,7 +103,7 @@
    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
    </p> -->
 
-<br />
+<!-- <br />
 
 <h2 align="center">🤝 Support</h2>
 
@@ -113,7 +111,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
-<h1 align='center'>⚡️<i>Never Cowardice!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Never Cowardice!</i>⚡️</h1> -->
 
 <!-- <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
